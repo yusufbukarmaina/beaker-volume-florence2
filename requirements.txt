@@ -1,0 +1,12 @@
+transformers==4.49.0
+datasets==3.6.0
+huggingface_hub==0.30.2
+gradio==5.29.0
+pillow>=10.4.0
+tqdm==4.67.1
+matplotlib==3.10.1
+numpy==1.26.4
+timm>=0.9.16
+einops==0.8.1
+opencv-python==4.11.0.86
+accelerate>=0.27.0
